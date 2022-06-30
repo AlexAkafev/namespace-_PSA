@@ -1,0 +1,16 @@
+C:\Users\111\source\repos\практика PSA\практика PSA\bin\Debug\netcoreapp3.1\практика PSA.exe
+C:\Users\111\source\repos\практика PSA\практика PSA\bin\Debug\netcoreapp3.1\практика PSA.deps.json
+C:\Users\111\source\repos\практика PSA\практика PSA\bin\Debug\netcoreapp3.1\практика PSA.runtimeconfig.json
+C:\Users\111\source\repos\практика PSA\практика PSA\bin\Debug\netcoreapp3.1\практика PSA.runtimeconfig.dev.json
+C:\Users\111\source\repos\практика PSA\практика PSA\bin\Debug\netcoreapp3.1\практика PSA.dll
+C:\Users\111\source\repos\практика PSA\практика PSA\bin\Debug\netcoreapp3.1\практика PSA.pdb
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика_PSA.Form1.resources
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.csproj.GenerateResource.cache
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.AssemblyInfo.cs
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.dll
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.pdb
+C:\Users\111\source\repos\практика PSA\практика PSA\obj\Debug\netcoreapp3.1\практика PSA.genruntimeconfig.cache
